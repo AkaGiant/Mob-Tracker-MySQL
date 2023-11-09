@@ -1,0 +1,4 @@
+name: MySQLTesting
+version: '${project.version}'
+main: com.github.akagiant.mysqltesting.MySQLTesting
+api-version: '1.20'
